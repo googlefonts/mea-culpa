@@ -125,7 +125,7 @@ capHeight = 800;
 customParameters = (
 {
 name = typoAscender;
-value = 900;
+value = 1000;
 },
 {
 name = typoDescender;
@@ -137,7 +137,7 @@ value = 0;
 },
 {
 name = hheaAscender;
-value = 900;
+value = 1000;
 },
 {
 name = hheaDescender;
@@ -53731,5 +53731,5 @@ manufacturer = "Robert E. Leuschke";
 manufacturerURL = www.typesetit.com;
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 1;
+versionMinor = 2;
 }
