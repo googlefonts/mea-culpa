@@ -7,16 +7,9 @@ abcdefghijklmnopqrstuvwxyz,
 "non.non,non:ono;non/ellipsis \012no¡no?non¿no·ch/bullet *2#45\012croc/backslash/periodcentered.loclCAT (nonon){Non}[ononononon]-­/endash/emdash/hyphentwo _/quotesinglbase Your's/space I'mnoN/quotedblright/quoteleft/quoteright «nono»/guilsinglleft nono/guilsinglright Your\"\"'/space/leftanglebracket-math 20302/rightanglebracket-math",
 "HH0H1HH2HH3H\012HH4HH5HH6HH\012HH7H8HH9HH/zero.lf \0120/Placeholder 0/space 1/Placeholder 1/space 2/Placeholder 2/space 3/Placeholder 3/space 4/Placeholder 4/space 5/Placeholder 5/space 6/Placeholder 6/space 7/Placeholder 7/space 8/Placeholder 8/space 9/Placeholder 9\0120123475647989/nbspace \012/one.lf/two.lf/three.lf/four.lf/five.lf/six.lf/seven.lf/eight.lf/nine.lf \012nn/Placeholder no/Placeholder oo\012",
 "nono@nono\012nonn@onon\012Non@gmail.com",
-"®",
-"/perthousand",
-"Ð/commercialMinusSign \012\012",
-"EGLOO/Obreve",
-"STT/Ytilde",
-"a/hookabovecomb/ahookabove",
-"/hookabovecomb",
-"/hookabovecomb.case",
-"/circumflexcomb_hookabovecomb.case",
-"/brevecomb/brevecomb_hookabovecomb/dblgravecomb/ringcomb c/caroncomb g/caroncomb v"
+"HH/Placeholder HO/Placeholder OOFAF/space GAG\012A/Placeholder A/space B/Placeholder B/space C/Placeholder C/space D/Placeholder D/space E/Placeholder E/space F/Placeholder F/space G/Placeholder G/space H/Placeholder H/space I/Placeholder I/space/space J/Placeholder J/space K/Placeholder K/space L/Placeholder L/space M/Placeholder M/space N/Placeholder N/space O/Placeholder O/space P/Placeholder P/space Q/Placeholder Q/space R/Placeholder R/space S/Placeholder S/space T/Placeholder T/space U/Placeholder U/space V/Placeholder V/space W/Placeholder W/space X/Placeholder X/space Y/Placeholder Y/space Z/Placeholder Z/space HH/Placeholder HO/Placeholder OO\012HTVFDYCGOOMALYAVROYONMJMVWATHBOCDEFGHIJKOLMHNOPOQRSOTUVWOXOYZ\012\012AWARD/space AVATAR/space YOU/space AFAIK/space ALL/space TALL/space TOMATO/space PAIN/space AUSTRAL/space OVOIDE/space OXO/space OYO/space AMAYA/space TIT/space FOLD/space AVANZAR/space Peto/space Fosforo/space Pato/space Pito/space Feo/space Tuvo/space TieneTaraTermo/space Tomate/space Yuno/space Yin/space Yale/space You/space Yeyo/space Fio/space Falaz/space Wonder/space Volcan/space Wals/space Well/space/space Winston/space Wulc/space/space Viene/space Variar/space Velocidad/space Kellogs/space Kunst/space Kale/space \012LORD/space PJROJO/space WYN\012V/Acircumflexdotbelow Y/space CH/Adotbelow Y/space/Dcroat/Uhornacute T/space/Ohornacute T/space TH/Uhorn/Ohorn NG/space T/Acircumflexacute Y/space",
+"a/Placeholder a/space b/Placeholder b/space c/Placeholder c/space d/Placeholder d/space e/Placeholder e/space f/Placeholder f/space g/Placeholder g/space h/Placeholder h/space i/Placeholder i/space jjj/space k/Placeholder k/space l/Placeholder l/space m/Placeholder m/space n/Placeholder n/space o/Placeholder o/space p/Placeholder p/space q/Placeholder q/space r/Placeholder r/space s/Placeholder s/space t/Placeholder t/space u/Placeholder u/space v/Placeholder v/space w/Placeholder w/space x/Placeholder x/space y/Placeholder y/space z/Placeholder z\012nn/Placeholder no/Placeholder oo\012abcdefghijklmnopqrstuvwxyz\012fear/space fall/space kilo/space long/space ovoide/space want/space wind/space oxo/space zapato\012Twombli/space Tgmaiwan/space Taiwan/space Tomato/space Temperture/space Tiro/space Twardock/space Walking/space Wonder/space Wc/space Wd/space/space Wrcnder/space/space You/space Family/space Fear/space Furor/space Vocal/space Viajar/space Zusam/space Pearl/space Point/space Pain/space Ayuda/space \012Kilo/space Londres/space Leon/space Lio/space Month/space \012Th/uhorn/ohorn ng/space T/ocircumflexacute t/space t/acircumflexacute t/space Nh/acircumflexacute t/space V/ocircumflexgrave ng/space/Dcroat/uhornacute ng/space B/uhornacute t/space/Dcroat/ocircumflexacute c/space k/ydotbelow ./space ng/uhorn/ohorngrave i/space Ng/uhorn/ohorntilde ng",
+"b.\012b,\012e.\012e,\012f.\012f,\012¿f\012f?\012f!\012g.\012g,\012j.\012j,\012k/endash \012o.\012o,\012p.\012p,\012q.\012r.\012r,\012r-\012s.\012s,\012s-\012t-\012v.\012v,\012w.\012w,\012y.\012y,\012y-y\012A-A\012D.\012D,\012F.\012F,\012F;\012F:\012F-\012J.\012J,\012J;\012J:\012J-J\012K-\012-M\012O.\012O,\012P.\012P,\012P-\012R-\012T.\012T,\012T;\012T:\012T-T\012U.\012U,\012U-\012V.\012V,\012V;\012V:\012V-V\012¡V\012W.\012W,\012W;\012W:\012W-W\012X-X\012Y.\012Y,\012Y;\012Y:\012Y-Y\012-Z\012\012"
 );
 classes = (
 {
@@ -20455,7 +20448,7 @@ unicode = 017B;
 },
 {
 glyphname = a;
-lastChange = "2021-11-18 13:28:51 +0000";
+lastChange = "2021-11-18 13:39:01 +0000";
 layers = (
 {
 anchors = (
@@ -22461,7 +22454,7 @@ unicode = 01C6;
 },
 {
 glyphname = e;
-lastChange = "2021-11-18 13:23:07 +0000";
+lastChange = "2021-11-18 13:39:04 +0000";
 layers = (
 {
 anchors = (
@@ -23504,7 +23497,7 @@ unicode = 0066;
 },
 {
 glyphname = g;
-lastChange = "2021-11-18 13:30:55 +0000";
+lastChange = "2021-11-18 13:38:13 +0000";
 layers = (
 {
 anchors = (
@@ -24092,7 +24085,7 @@ unicode = 0125;
 },
 {
 glyphname = i;
-lastChange = "2021-11-18 11:50:05 +0000";
+lastChange = "2021-11-18 13:38:51 +0000";
 layers = (
 {
 anchors = (
@@ -26675,7 +26668,7 @@ unicode = 00F1;
 },
 {
 glyphname = o;
-lastChange = "2021-11-18 13:23:07 +0000";
+lastChange = "2021-11-18 13:38:09 +0000";
 layers = (
 {
 anchors = (
@@ -29970,7 +29963,7 @@ unicode = 021B;
 },
 {
 glyphname = u;
-lastChange = "2021-11-18 13:23:07 +0000";
+lastChange = "2021-11-18 13:38:55 +0000";
 layers = (
 {
 anchors = (
@@ -31118,7 +31111,7 @@ unicode = 0076;
 },
 {
 glyphname = w;
-lastChange = "2021-11-18 11:50:05 +0000";
+lastChange = "2021-11-18 13:37:24 +0000";
 layers = (
 {
 anchors = (
@@ -51812,7 +51805,7 @@ width = 87;
 {
 color = 9;
 glyphname = circumflexcomb;
-lastChange = "2021-11-18 13:23:07 +0000";
+lastChange = "2021-11-18 13:34:26 +0000";
 layers = (
 {
 anchors = (
@@ -51822,7 +51815,7 @@ position = "{83, 300}";
 },
 {
 name = top;
-position = "{255, 356}";
+position = "{230, 381}";
 },
 {
 name = topviet;
@@ -55196,7 +55189,7 @@ width = 193;
 {
 color = 9;
 glyphname = circumflexcomb_acutecomb;
-lastChange = "2021-11-18 13:22:47 +0000";
+lastChange = "2021-11-18 13:34:26 +0000";
 layers = (
 {
 background = {
@@ -55216,7 +55209,7 @@ name = circumflexcomb;
 },
 {
 name = acutecomb;
-transform = "{1, 0, 0, 1, 218, 56}";
+transform = "{1, 0, 0, 1, 193, 81}";
 }
 );
 layerId = "32B14CDE-4F96-422E-BD5E-1145416534B1";
@@ -55818,6 +55811,8 @@ quoteright = 47;
 };
 P = {
 Q = 223;
+a = -60;
+e = -60;
 p = -45;
 quotedbl = 102;
 quotedblleft = 188;
@@ -55845,10 +55840,17 @@ quoteright = 133;
 };
 T = {
 U = 322;
+a = -70;
+e = -70;
+g = -70;
+i = -70;
+o = -70;
 quotedblleft = 484;
 quotedblright = 429;
 quoteleft = 485;
 quoteright = 438;
+u = -60;
+w = -50;
 };
 U = {
 V = 78;
@@ -55867,11 +55869,16 @@ quoteright = 422;
 };
 W = {
 X = 223;
+a = -70;
+e = -60;
+i = -60;
+o = -70;
 quotedbl = 118;
 quotedblleft = 282;
 quotedblright = 305;
 quoteleft = 297;
 quoteright = 289;
+u = -60;
 };
 X = {
 Y = 255;
