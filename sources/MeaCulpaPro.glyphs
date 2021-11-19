@@ -1,5 +1,5 @@
 {
-.appVersion = "1357";
+.appVersion = "1352";
 DisplayStrings = (
 "Prized/space waxy/space jonquils/space choke/space big/space farm/space vats./space Quickly/space jigs/space for/space waltz/space vex/space bad/space nymph./space Jaded/space zombies/space acted/space quaintly/space but/space kept/space driving/space their/space oxen/space forward./space Brawny/space gods/space just/space flocked/space up/space to/space quiz/space and/space vex/space him./space May/space Jo/space equals/space the/space fine/space record/space by/space solving/space six/space puzzles/space a/space week./space Quincy/space Jones/space vowed/space to/space fix/space the/space bleak/space jazz/space program./space Playing/space jazz/space vibe/space chords/space quickly/space excites/space my/space wife./space Murky/space haze/space enveloped/space a/space city/space as/space jarring/space quakes/space broke/space forty-six/space windows./space Mix/space Zapf/space with/space Veljovic/space and/space get/space quirky/space beziers./space A/space mad/space boxer/space shot/space a/space quick,/space gloved/space jab/space to/space the/space jaw/space of/space his/space dizzy/space opponents./space T/space V/space folk/space buy/space ex-Prez/space John/space Quincy/space Adams'/space wig./space Wham!/space Volcano/space erupts/space fiery/space liquid/space death/space onto/space ex-jazzbo/space Kenny/space G./space Queen/space Elizabeth's/space proxy/space waved/space off/space Mick/space Jagger./space John/space Quincy/space Adams/space grew/space vexed/space by/space talk/space of/space puzzles./space The/space July/space sun/space caused/space a/space fragment/space of/space pine/space wax/space to/space ooze/space on/space the/space black/space velvet/space quilt./space Astronaut/space Quincy/space B./space Zack/space defies/space gravity/space with/space six/space jet/space fuel/space pumps./space How/space quickly/space daft/space jumping/space zebras/space vex./space A/space large/space fawn/space jumped/space quickly/space over/space white/space zinc/space boxes./space/space Schwarzkopf/space vexed/space Iraq/space big-time/space in/space July./space My/space grandfather/space picks/space up/space quartz/space and/space valuable/space onyx/space jewels./space Sphinx/space of/space black/space quartz/space judge/space my/space vow./space The/space job/space of/space waxing/space linoleum/space frequently/space peeves/space chintzy/space kids./space Jim/space just/space quit/space and/space packed/space extra/space heavy/space bags/space for/space Liz/space Owen./space Grumpy/space wizards/space make/space toxic/space brew/space for/space the/space evil/space Queen/space and/space Jack./space Sex/space prof/space gives/space back/space no/space quiz/space with/space mild/space joy./space Beloved/space Groucho/space joked/space a/space mix/space of/space zany/space quips./space Whacky/space pangram/space quiz/space flummoxed/space Steve/space Jobs./space Quip-crazy/space Gorbachev/space went/space and/space mixed/space flapjacks./space Queen/space Elizabeth's/space proxy/space waved/space off/space Mick/space Jagger./space Jail/space zesty/space vixen/space grabbed/space pay/space from/space quack./space Six/space big/space juicy/space steaks/space sizzled/space in/space a/space pan/space as/space five/space workmen/space left/space the/space quarry./space Many-wived/space Jack/space laughs/space at/space probes/space of/space sex/space quiz./space Six/space quite/space crazy/space kings/space vowed/space to/space abolish/space my/space pitiful/space jousts.",
 ABCDEFGHIJKLMNOPQRSTUVWXYZ,
@@ -16,7 +16,8 @@ abcdefghijklmnopqrstuvwxyz,
 "/dieresiscomb.case",
 "A/Abreve",
 "/brevecomb_acutecomb",
-"/circumflexcomb_tildecomb.case"
+"/circumflexcomb_tildecomb.case",
+"n/nacute/ncaron/ncommaaccent/eng/nj ñ"
 );
 classes = (
 {
@@ -174,11 +175,11 @@ value = 0;
 },
 {
 name = winAscent;
-value = 999;
+value = 1098;
 },
 {
 name = winDescent;
-value = 447;
+value = 593;
 },
 {
 name = strikeoutPosition;
@@ -3803,7 +3804,7 @@ unicode = 00D0;
 },
 {
 glyphname = Dcaron;
-lastChange = "2021-11-18 13:32:31 +0000";
+lastChange = "2021-11-19 15:12:47 +0000";
 layers = (
 {
 background = {
@@ -3822,7 +3823,7 @@ name = D;
 },
 {
 name = caroncomb;
-transform = "{1, 0, 0, 1, 838, 440}";
+transform = "{1, 0, 0, 1, 829, 440}";
 }
 );
 layerId = "32B14CDE-4F96-422E-BD5E-1145416534B1";
@@ -20846,7 +20847,7 @@ unicode = 1EB5;
 },
 {
 glyphname = acaron;
-lastChange = "2021-11-18 13:32:24 +0000";
+lastChange = "2021-11-19 15:12:47 +0000";
 layers = (
 {
 background = {
@@ -20865,7 +20866,7 @@ name = a;
 },
 {
 name = caroncomb;
-transform = "{1, 0, 0, 1, 155, 0}";
+transform = "{1, 0, 0, 1, 146, 0}";
 }
 );
 layerId = "32B14CDE-4F96-422E-BD5E-1145416534B1";
@@ -22016,7 +22017,7 @@ unicode = 0107;
 },
 {
 glyphname = ccaron;
-lastChange = "2021-11-18 13:32:24 +0000";
+lastChange = "2021-11-19 15:12:47 +0000";
 layers = (
 {
 background = {
@@ -22035,7 +22036,7 @@ name = c;
 },
 {
 name = caroncomb;
-transform = "{1, 0, 0, 1, 99, 0}";
+transform = "{1, 0, 0, 1, 90, 0}";
 }
 );
 layerId = "32B14CDE-4F96-422E-BD5E-1145416534B1";
@@ -22464,7 +22465,7 @@ unicode = 01C6;
 },
 {
 glyphname = e;
-lastChange = "2021-11-18 13:39:04 +0000";
+lastChange = "2021-11-19 15:13:12 +0000";
 layers = (
 {
 anchors = (
@@ -22478,7 +22479,7 @@ position = "{244, 36}";
 },
 {
 name = top;
-position = "{190, 300}";
+position = "{201, 300}";
 }
 );
 background = {
@@ -22612,7 +22613,7 @@ unicode = 0065;
 },
 {
 glyphname = eacute;
-lastChange = "2021-11-18 11:50:05 +0000";
+lastChange = "2021-11-19 15:13:12 +0000";
 layers = (
 {
 background = {
@@ -22631,7 +22632,7 @@ name = e;
 },
 {
 name = acutecomb;
-transform = "{1, 0, 0, 1, 153, 0}";
+transform = "{1, 0, 0, 1, 164, 0}";
 }
 );
 layerId = "32B14CDE-4F96-422E-BD5E-1145416534B1";
@@ -22642,7 +22643,7 @@ unicode = 00E9;
 },
 {
 glyphname = ebreve;
-lastChange = "2021-11-18 11:50:05 +0000";
+lastChange = "2021-11-19 15:13:12 +0000";
 layers = (
 {
 background = {
@@ -22661,7 +22662,7 @@ name = e;
 },
 {
 name = brevecomb;
-transform = "{1, 0, 0, 1, 145, 0}";
+transform = "{1, 0, 0, 1, 156, 0}";
 }
 );
 layerId = "32B14CDE-4F96-422E-BD5E-1145416534B1";
@@ -22672,7 +22673,7 @@ unicode = 0115;
 },
 {
 glyphname = ecaron;
-lastChange = "2021-11-18 13:32:24 +0000";
+lastChange = "2021-11-19 15:13:12 +0000";
 layers = (
 {
 background = {
@@ -22691,7 +22692,7 @@ name = e;
 },
 {
 name = caroncomb;
-transform = "{1, 0, 0, 1, 102, 0}";
+transform = "{1, 0, 0, 1, 104, 0}";
 }
 );
 layerId = "32B14CDE-4F96-422E-BD5E-1145416534B1";
@@ -22702,7 +22703,7 @@ unicode = 011B;
 },
 {
 glyphname = ecircumflex;
-lastChange = "2021-11-18 12:02:27 +0000";
+lastChange = "2021-11-19 15:13:12 +0000";
 layers = (
 {
 background = {
@@ -22721,7 +22722,7 @@ name = e;
 },
 {
 name = circumflexcomb;
-transform = "{1, 0, 0, 1, 107, 0}";
+transform = "{1, 0, 0, 1, 118, 0}";
 }
 );
 layerId = "32B14CDE-4F96-422E-BD5E-1145416534B1";
@@ -22732,7 +22733,7 @@ unicode = 00EA;
 },
 {
 glyphname = ecircumflexacute;
-lastChange = "2021-11-18 12:02:27 +0000";
+lastChange = "2021-11-19 15:13:12 +0000";
 layers = (
 {
 background = {
@@ -22751,7 +22752,7 @@ name = e;
 },
 {
 name = circumflexcomb_acutecomb;
-transform = "{1, 0, 0, 1, 107, 0}";
+transform = "{1, 0, 0, 1, 118, 0}";
 }
 );
 layerId = "32B14CDE-4F96-422E-BD5E-1145416534B1";
@@ -22762,7 +22763,7 @@ unicode = 1EBF;
 },
 {
 glyphname = ecircumflexdotbelow;
-lastChange = "2021-11-18 12:02:27 +0000";
+lastChange = "2021-11-19 15:13:12 +0000";
 layers = (
 {
 background = {
@@ -22788,7 +22789,7 @@ transform = "{1, 0, 0, 1, 59, 0}";
 },
 {
 name = circumflexcomb;
-transform = "{1, 0, 0, 1, 107, 0}";
+transform = "{1, 0, 0, 1, 118, 0}";
 }
 );
 layerId = "32B14CDE-4F96-422E-BD5E-1145416534B1";
@@ -22799,7 +22800,7 @@ unicode = 1EC7;
 },
 {
 glyphname = ecircumflexgrave;
-lastChange = "2021-11-18 12:02:27 +0000";
+lastChange = "2021-11-19 15:13:12 +0000";
 layers = (
 {
 background = {
@@ -22818,7 +22819,7 @@ name = e;
 },
 {
 name = circumflexcomb_gravecomb;
-transform = "{1, 0, 0, 1, 107, 0}";
+transform = "{1, 0, 0, 1, 118, 0}";
 }
 );
 layerId = "32B14CDE-4F96-422E-BD5E-1145416534B1";
@@ -22829,7 +22830,7 @@ unicode = 1EC1;
 },
 {
 glyphname = ecircumflexhookabove;
-lastChange = "2021-11-18 12:02:27 +0000";
+lastChange = "2021-11-19 15:13:12 +0000";
 layers = (
 {
 background = {
@@ -22848,7 +22849,7 @@ name = e;
 },
 {
 name = circumflexcomb_hookabovecomb;
-transform = "{1, 0, 0, 1, 107, 0}";
+transform = "{1, 0, 0, 1, 118, 0}";
 }
 );
 layerId = "32B14CDE-4F96-422E-BD5E-1145416534B1";
@@ -22859,7 +22860,7 @@ unicode = 1EC3;
 },
 {
 glyphname = ecircumflextilde;
-lastChange = "2021-11-18 12:02:27 +0000";
+lastChange = "2021-11-19 15:13:12 +0000";
 layers = (
 {
 background = {
@@ -22878,7 +22879,7 @@ name = e;
 },
 {
 name = circumflexcomb_tildecomb;
-transform = "{1, 0, 0, 1, 107, 0}";
+transform = "{1, 0, 0, 1, 118, 0}";
 }
 );
 layerId = "32B14CDE-4F96-422E-BD5E-1145416534B1";
@@ -22889,7 +22890,7 @@ unicode = 1EC5;
 },
 {
 glyphname = edblgrave;
-lastChange = "2021-11-18 13:30:42 +0000";
+lastChange = "2021-11-19 15:13:12 +0000";
 layers = (
 {
 background = {
@@ -22908,7 +22909,7 @@ name = e;
 },
 {
 name = dblgravecomb;
-transform = "{1, 0, 0, 1, 48, 0}";
+transform = "{1, 0, 0, 1, 59, 0}";
 }
 );
 layerId = "32B14CDE-4F96-422E-BD5E-1145416534B1";
@@ -22919,7 +22920,7 @@ unicode = 0205;
 },
 {
 glyphname = edieresis;
-lastChange = "2021-11-18 11:50:05 +0000";
+lastChange = "2021-11-19 15:13:12 +0000";
 layers = (
 {
 background = {
@@ -22938,7 +22939,7 @@ name = e;
 },
 {
 name = dieresiscomb;
-transform = "{1, 0, 0, 1, 134, 0}";
+transform = "{1, 0, 0, 1, 145, 0}";
 }
 );
 layerId = "32B14CDE-4F96-422E-BD5E-1145416534B1";
@@ -22949,7 +22950,7 @@ unicode = 00EB;
 },
 {
 glyphname = edotaccent;
-lastChange = "2021-11-18 11:50:05 +0000";
+lastChange = "2021-11-19 15:13:12 +0000";
 layers = (
 {
 background = {
@@ -22968,7 +22969,7 @@ name = e;
 },
 {
 name = dotaccentcomb;
-transform = "{1, 0, 0, 1, 187, 0}";
+transform = "{1, 0, 0, 1, 198, 0}";
 }
 );
 layerId = "32B14CDE-4F96-422E-BD5E-1145416534B1";
@@ -23009,7 +23010,7 @@ unicode = 1EB9;
 },
 {
 glyphname = egrave;
-lastChange = "2021-11-18 11:50:05 +0000";
+lastChange = "2021-11-19 15:13:12 +0000";
 layers = (
 {
 background = {
@@ -23028,7 +23029,7 @@ name = e;
 },
 {
 name = gravecomb;
-transform = "{1, 0, 0, 1, 95, 0}";
+transform = "{1, 0, 0, 1, 106, 0}";
 }
 );
 layerId = "32B14CDE-4F96-422E-BD5E-1145416534B1";
@@ -23039,7 +23040,7 @@ unicode = 00E8;
 },
 {
 glyphname = ehookabove;
-lastChange = "2021-11-18 13:29:17 +0000";
+lastChange = "2021-11-19 15:13:12 +0000";
 layers = (
 {
 background = {
@@ -23058,7 +23059,7 @@ name = e;
 },
 {
 name = hookabovecomb;
-transform = "{1, 0, 0, 1, 177, 0}";
+transform = "{1, 0, 0, 1, 188, 0}";
 }
 );
 layerId = "32B14CDE-4F96-422E-BD5E-1145416534B1";
@@ -23069,7 +23070,7 @@ unicode = 1EBB;
 },
 {
 glyphname = einvertedbreve;
-lastChange = "2021-11-18 11:50:05 +0000";
+lastChange = "2021-11-19 15:13:12 +0000";
 layers = (
 {
 background = {
@@ -23088,7 +23089,7 @@ name = e;
 },
 {
 name = breveinvertedcomb;
-transform = "{1, 0, 0, 1, 121, 0}";
+transform = "{1, 0, 0, 1, 132, 0}";
 }
 );
 layerId = "32B14CDE-4F96-422E-BD5E-1145416534B1";
@@ -23099,7 +23100,7 @@ unicode = 0207;
 },
 {
 glyphname = emacron;
-lastChange = "2021-11-18 11:50:05 +0000";
+lastChange = "2021-11-19 15:13:12 +0000";
 layers = (
 {
 background = {
@@ -23118,7 +23119,7 @@ name = e;
 },
 {
 name = macroncomb;
-transform = "{1, 0, 0, 1, 126, 0}";
+transform = "{1, 0, 0, 1, 137, 0}";
 }
 );
 layerId = "32B14CDE-4F96-422E-BD5E-1145416534B1";
@@ -23159,7 +23160,7 @@ unicode = 0119;
 },
 {
 glyphname = etilde;
-lastChange = "2021-11-18 11:50:05 +0000";
+lastChange = "2021-11-19 15:13:12 +0000";
 layers = (
 {
 background = {
@@ -23178,7 +23179,7 @@ name = e;
 },
 {
 name = tildecomb;
-transform = "{1, 0, 0, 1, 108, 0}";
+transform = "{1, 0, 0, 1, 119, 0}";
 }
 );
 layerId = "32B14CDE-4F96-422E-BD5E-1145416534B1";
@@ -23731,7 +23732,7 @@ unicode = 011F;
 },
 {
 glyphname = gcaron;
-lastChange = "2021-11-18 13:32:24 +0000";
+lastChange = "2021-11-19 15:12:47 +0000";
 layers = (
 {
 background = {
@@ -23750,7 +23751,7 @@ name = g;
 },
 {
 name = caroncomb;
-transform = "{1, 0, 0, 1, 154, 0}";
+transform = "{1, 0, 0, 1, 145, 0}";
 }
 );
 layerId = "32B14CDE-4F96-422E-BD5E-1145416534B1";
@@ -24474,7 +24475,7 @@ unicode = 012D;
 },
 {
 glyphname = icaron;
-lastChange = "2021-11-18 13:32:24 +0000";
+lastChange = "2021-11-19 15:12:47 +0000";
 layers = (
 {
 background = {
@@ -24493,7 +24494,7 @@ name = idotless;
 },
 {
 name = caroncomb;
-transform = "{1, 0, 0, 1, 78, 0}";
+transform = "{1, 0, 0, 1, 69, 0}";
 }
 );
 layerId = "32B14CDE-4F96-422E-BD5E-1145416534B1";
@@ -26166,7 +26167,7 @@ unicode = 006D;
 },
 {
 glyphname = n;
-lastChange = "2021-11-18 13:23:07 +0000";
+lastChange = "2021-11-19 15:12:44 +0000";
 layers = (
 {
 anchors = (
@@ -26176,7 +26177,7 @@ position = "{154, 0}";
 },
 {
 name = top;
-position = "{240, 300}";
+position = "{276, 300}";
 }
 );
 background = {
@@ -26340,7 +26341,7 @@ unicode = 006E;
 },
 {
 glyphname = nacute;
-lastChange = "2021-11-18 11:50:05 +0000";
+lastChange = "2021-11-19 15:12:13 +0000";
 layers = (
 {
 background = {
@@ -26359,7 +26360,7 @@ name = n;
 },
 {
 name = acutecomb;
-transform = "{1, 0, 0, 1, 203, 0}";
+transform = "{1, 0, 0, 1, 239, 0}";
 }
 );
 layerId = "32B14CDE-4F96-422E-BD5E-1145416534B1";
@@ -26370,7 +26371,7 @@ unicode = 0144;
 },
 {
 glyphname = ncaron;
-lastChange = "2021-11-18 13:32:24 +0000";
+lastChange = "2021-11-19 15:12:23 +0000";
 layers = (
 {
 background = {
@@ -26389,7 +26390,7 @@ name = n;
 },
 {
 name = caroncomb;
-transform = "{1, 0, 0, 1, 152, 0}";
+transform = "{1, 0, 0, 1, 179, 0}";
 }
 );
 layerId = "32B14CDE-4F96-422E-BD5E-1145416534B1";
@@ -26648,7 +26649,7 @@ unicode = 01CC;
 },
 {
 glyphname = ntilde;
-lastChange = "2021-11-18 11:50:05 +0000";
+lastChange = "2021-11-19 15:12:13 +0000";
 layers = (
 {
 background = {
@@ -26667,7 +26668,7 @@ name = n;
 },
 {
 name = tildecomb;
-transform = "{1, 0, 0, 1, 158, 0}";
+transform = "{1, 0, 0, 1, 194, 0}";
 }
 );
 layerId = "32B14CDE-4F96-422E-BD5E-1145416534B1";
@@ -26678,7 +26679,7 @@ unicode = 00F1;
 },
 {
 glyphname = o;
-lastChange = "2021-11-18 13:38:09 +0000";
+lastChange = "2021-11-19 15:13:40 +0000";
 layers = (
 {
 anchors = (
@@ -26696,7 +26697,7 @@ position = "{111, 10}";
 },
 {
 name = top;
-position = "{205, 300}";
+position = "{206, 300}";
 },
 {
 name = topright;
@@ -26849,7 +26850,7 @@ unicode = 006F;
 },
 {
 glyphname = oacute;
-lastChange = "2021-11-18 11:50:05 +0000";
+lastChange = "2021-11-19 15:13:40 +0000";
 layers = (
 {
 background = {
@@ -26868,7 +26869,7 @@ name = o;
 },
 {
 name = acutecomb;
-transform = "{1, 0, 0, 1, 168, 0}";
+transform = "{1, 0, 0, 1, 169, 0}";
 }
 );
 layerId = "32B14CDE-4F96-422E-BD5E-1145416534B1";
@@ -26879,7 +26880,7 @@ unicode = 00F3;
 },
 {
 glyphname = obreve;
-lastChange = "2021-11-18 11:50:05 +0000";
+lastChange = "2021-11-19 15:13:40 +0000";
 layers = (
 {
 background = {
@@ -26898,7 +26899,7 @@ name = o;
 },
 {
 name = brevecomb;
-transform = "{1, 0, 0, 1, 160, 0}";
+transform = "{1, 0, 0, 1, 161, 0}";
 }
 );
 layerId = "32B14CDE-4F96-422E-BD5E-1145416534B1";
@@ -26909,7 +26910,7 @@ unicode = 014F;
 },
 {
 glyphname = ocaron;
-lastChange = "2021-11-18 13:31:29 +0000";
+lastChange = "2021-11-19 15:13:40 +0000";
 layers = (
 {
 background = {
@@ -26928,7 +26929,7 @@ name = o;
 },
 {
 name = caroncomb;
-transform = "{1, 0, 0, 1, 117, 0}";
+transform = "{1, 0, 0, 1, 109, 0}";
 }
 );
 layerId = "32B14CDE-4F96-422E-BD5E-1145416534B1";
@@ -26939,7 +26940,7 @@ unicode = 01D2;
 },
 {
 glyphname = ocircumflex;
-lastChange = "2021-11-18 12:02:17 +0000";
+lastChange = "2021-11-19 15:13:40 +0000";
 layers = (
 {
 background = {
@@ -26958,7 +26959,7 @@ name = o;
 },
 {
 name = circumflexcomb;
-transform = "{1, 0, 0, 1, 122, 0}";
+transform = "{1, 0, 0, 1, 123, 0}";
 }
 );
 layerId = "32B14CDE-4F96-422E-BD5E-1145416534B1";
@@ -26969,7 +26970,7 @@ unicode = 00F4;
 },
 {
 glyphname = ocircumflexacute;
-lastChange = "2021-11-18 12:02:27 +0000";
+lastChange = "2021-11-19 15:13:40 +0000";
 layers = (
 {
 background = {
@@ -26988,7 +26989,7 @@ name = o;
 },
 {
 name = circumflexcomb_acutecomb;
-transform = "{1, 0, 0, 1, 122, 0}";
+transform = "{1, 0, 0, 1, 123, 0}";
 }
 );
 layerId = "32B14CDE-4F96-422E-BD5E-1145416534B1";
@@ -26999,7 +27000,7 @@ unicode = 1ED1;
 },
 {
 glyphname = ocircumflexdotbelow;
-lastChange = "2021-11-18 12:02:27 +0000";
+lastChange = "2021-11-19 15:13:40 +0000";
 layers = (
 {
 background = {
@@ -27025,7 +27026,7 @@ transform = "{1, 0, 0, 1, -12, 0}";
 },
 {
 name = circumflexcomb;
-transform = "{1, 0, 0, 1, 122, 0}";
+transform = "{1, 0, 0, 1, 123, 0}";
 }
 );
 layerId = "32B14CDE-4F96-422E-BD5E-1145416534B1";
@@ -27036,7 +27037,7 @@ unicode = 1ED9;
 },
 {
 glyphname = ocircumflexgrave;
-lastChange = "2021-11-18 12:02:27 +0000";
+lastChange = "2021-11-19 15:13:41 +0000";
 layers = (
 {
 background = {
@@ -27055,7 +27056,7 @@ name = o;
 },
 {
 name = circumflexcomb_gravecomb;
-transform = "{1, 0, 0, 1, 122, 0}";
+transform = "{1, 0, 0, 1, 123, 0}";
 }
 );
 layerId = "32B14CDE-4F96-422E-BD5E-1145416534B1";
@@ -27066,7 +27067,7 @@ unicode = 1ED3;
 },
 {
 glyphname = ocircumflexhookabove;
-lastChange = "2021-11-18 12:02:27 +0000";
+lastChange = "2021-11-19 15:13:41 +0000";
 layers = (
 {
 background = {
@@ -27085,7 +27086,7 @@ name = o;
 },
 {
 name = circumflexcomb_hookabovecomb;
-transform = "{1, 0, 0, 1, 122, 0}";
+transform = "{1, 0, 0, 1, 123, 0}";
 }
 );
 layerId = "32B14CDE-4F96-422E-BD5E-1145416534B1";
@@ -27096,7 +27097,7 @@ unicode = 1ED5;
 },
 {
 glyphname = ocircumflextilde;
-lastChange = "2021-11-18 12:02:27 +0000";
+lastChange = "2021-11-19 15:13:41 +0000";
 layers = (
 {
 background = {
@@ -27115,7 +27116,7 @@ name = o;
 },
 {
 name = circumflexcomb_tildecomb;
-transform = "{1, 0, 0, 1, 122, 0}";
+transform = "{1, 0, 0, 1, 123, 0}";
 }
 );
 layerId = "32B14CDE-4F96-422E-BD5E-1145416534B1";
@@ -27126,7 +27127,7 @@ unicode = 1ED7;
 },
 {
 glyphname = odblgrave;
-lastChange = "2021-11-18 13:31:35 +0000";
+lastChange = "2021-11-19 15:13:41 +0000";
 layers = (
 {
 background = {
@@ -27145,7 +27146,7 @@ name = o;
 },
 {
 name = dblgravecomb;
-transform = "{1, 0, 0, 1, 63, 0}";
+transform = "{1, 0, 0, 1, 64, 0}";
 }
 );
 layerId = "32B14CDE-4F96-422E-BD5E-1145416534B1";
@@ -27156,7 +27157,7 @@ unicode = 020D;
 },
 {
 glyphname = odieresis;
-lastChange = "2021-11-18 13:53:51 +0000";
+lastChange = "2021-11-19 15:13:41 +0000";
 layers = (
 {
 background = {
@@ -27175,7 +27176,7 @@ name = o;
 },
 {
 name = dieresiscomb;
-transform = "{1, 0, 0, 1, 149, 0}";
+transform = "{1, 0, 0, 1, 150, 0}";
 }
 );
 layerId = "32B14CDE-4F96-422E-BD5E-1145416534B1";
@@ -27186,7 +27187,7 @@ unicode = 00F6;
 },
 {
 glyphname = odieresismacron;
-lastChange = "2021-11-18 11:50:05 +0000";
+lastChange = "2021-11-19 15:13:41 +0000";
 layers = (
 {
 background = {
@@ -27208,11 +27209,11 @@ name = o;
 },
 {
 name = dieresiscomb;
-transform = "{1, 0, 0, 1, 149, 0}";
+transform = "{1, 0, 0, 1, 150, 0}";
 },
 {
 name = macroncomb;
-transform = "{1, 0, 0, 1, 162, 94}";
+transform = "{1, 0, 0, 1, 163, 94}";
 }
 );
 layerId = "32B14CDE-4F96-422E-BD5E-1145416534B1";
@@ -27223,7 +27224,7 @@ unicode = 022B;
 },
 {
 glyphname = odotaccentmacron;
-lastChange = "2021-11-18 11:50:05 +0000";
+lastChange = "2021-11-19 15:13:41 +0000";
 layers = (
 {
 background = {
@@ -27245,11 +27246,11 @@ name = o;
 },
 {
 name = dotaccentcomb;
-transform = "{1, 0, 0, 1, 202, 0}";
+transform = "{1, 0, 0, 1, 203, 0}";
 },
 {
 name = macroncomb;
-transform = "{1, 0, 0, 1, 155, 95}";
+transform = "{1, 0, 0, 1, 156, 95}";
 }
 );
 layerId = "32B14CDE-4F96-422E-BD5E-1145416534B1";
@@ -27290,7 +27291,7 @@ unicode = 1ECD;
 },
 {
 glyphname = ograve;
-lastChange = "2021-11-18 11:50:05 +0000";
+lastChange = "2021-11-19 15:13:41 +0000";
 layers = (
 {
 background = {
@@ -27309,7 +27310,7 @@ name = o;
 },
 {
 name = gravecomb;
-transform = "{1, 0, 0, 1, 110, 0}";
+transform = "{1, 0, 0, 1, 111, 0}";
 }
 );
 layerId = "32B14CDE-4F96-422E-BD5E-1145416534B1";
@@ -27320,7 +27321,7 @@ unicode = 00F2;
 },
 {
 glyphname = ohookabove;
-lastChange = "2021-11-18 13:29:18 +0000";
+lastChange = "2021-11-19 15:13:41 +0000";
 layers = (
 {
 background = {
@@ -27339,7 +27340,7 @@ name = o;
 },
 {
 name = hookabovecomb;
-transform = "{1, 0, 0, 1, 192, 0}";
+transform = "{1, 0, 0, 1, 193, 0}";
 }
 );
 layerId = "32B14CDE-4F96-422E-BD5E-1145416534B1";
@@ -27381,7 +27382,7 @@ unicode = 01A1;
 },
 {
 glyphname = ohornacute;
-lastChange = "2021-11-18 11:50:05 +0000";
+lastChange = "2021-11-19 15:13:41 +0000";
 layers = (
 {
 background = {
@@ -27400,7 +27401,7 @@ name = ohorn;
 },
 {
 name = acutecomb;
-transform = "{1, 0, 0, 1, 168, 0}";
+transform = "{1, 0, 0, 1, 169, 0}";
 }
 );
 layerId = "32B14CDE-4F96-422E-BD5E-1145416534B1";
@@ -27441,7 +27442,7 @@ unicode = 1EE3;
 },
 {
 glyphname = ohorngrave;
-lastChange = "2021-11-18 11:50:05 +0000";
+lastChange = "2021-11-19 15:13:41 +0000";
 layers = (
 {
 background = {
@@ -27460,7 +27461,7 @@ name = ohorn;
 },
 {
 name = gravecomb;
-transform = "{1, 0, 0, 1, 110, 0}";
+transform = "{1, 0, 0, 1, 111, 0}";
 }
 );
 layerId = "32B14CDE-4F96-422E-BD5E-1145416534B1";
@@ -27471,7 +27472,7 @@ unicode = 1EDD;
 },
 {
 glyphname = ohornhookabove;
-lastChange = "2021-11-18 13:29:18 +0000";
+lastChange = "2021-11-19 15:13:41 +0000";
 layers = (
 {
 background = {
@@ -27490,7 +27491,7 @@ name = ohorn;
 },
 {
 name = hookabovecomb;
-transform = "{1, 0, 0, 1, 192, 0}";
+transform = "{1, 0, 0, 1, 193, 0}";
 }
 );
 layerId = "32B14CDE-4F96-422E-BD5E-1145416534B1";
@@ -27501,7 +27502,7 @@ unicode = 1EDF;
 },
 {
 glyphname = ohorntilde;
-lastChange = "2021-11-18 11:50:05 +0000";
+lastChange = "2021-11-19 15:13:41 +0000";
 layers = (
 {
 background = {
@@ -27520,7 +27521,7 @@ name = ohorn;
 },
 {
 name = tildecomb;
-transform = "{1, 0, 0, 1, 123, 0}";
+transform = "{1, 0, 0, 1, 124, 0}";
 }
 );
 layerId = "32B14CDE-4F96-422E-BD5E-1145416534B1";
@@ -27531,7 +27532,7 @@ unicode = 1EE1;
 },
 {
 glyphname = ohungarumlaut;
-lastChange = "2021-11-18 11:50:05 +0000";
+lastChange = "2021-11-19 15:13:41 +0000";
 layers = (
 {
 background = {
@@ -27550,7 +27551,7 @@ name = o;
 },
 {
 name = hungarumlautcomb;
-transform = "{1, 0, 0, 1, 197, 0}";
+transform = "{1, 0, 0, 1, 198, 0}";
 }
 );
 layerId = "32B14CDE-4F96-422E-BD5E-1145416534B1";
@@ -27561,7 +27562,7 @@ unicode = 0151;
 },
 {
 glyphname = oinvertedbreve;
-lastChange = "2021-11-18 11:50:05 +0000";
+lastChange = "2021-11-19 15:13:41 +0000";
 layers = (
 {
 background = {
@@ -27580,7 +27581,7 @@ name = o;
 },
 {
 name = breveinvertedcomb;
-transform = "{1, 0, 0, 1, 136, 0}";
+transform = "{1, 0, 0, 1, 137, 0}";
 }
 );
 layerId = "32B14CDE-4F96-422E-BD5E-1145416534B1";
@@ -27591,7 +27592,7 @@ unicode = 020F;
 },
 {
 glyphname = omacron;
-lastChange = "2021-11-18 11:50:05 +0000";
+lastChange = "2021-11-19 15:13:41 +0000";
 layers = (
 {
 background = {
@@ -27610,7 +27611,7 @@ name = o;
 },
 {
 name = macroncomb;
-transform = "{1, 0, 0, 1, 141, 0}";
+transform = "{1, 0, 0, 1, 142, 0}";
 }
 );
 layerId = "32B14CDE-4F96-422E-BD5E-1145416534B1";
@@ -27904,7 +27905,7 @@ unicode = 01FF;
 },
 {
 glyphname = otilde;
-lastChange = "2021-11-18 11:50:05 +0000";
+lastChange = "2021-11-19 15:13:41 +0000";
 layers = (
 {
 background = {
@@ -27923,7 +27924,7 @@ name = o;
 },
 {
 name = tildecomb;
-transform = "{1, 0, 0, 1, 123, 0}";
+transform = "{1, 0, 0, 1, 124, 0}";
 }
 );
 layerId = "32B14CDE-4F96-422E-BD5E-1145416534B1";
@@ -27934,7 +27935,7 @@ unicode = 00F5;
 },
 {
 glyphname = otildemacron;
-lastChange = "2021-11-18 11:50:05 +0000";
+lastChange = "2021-11-19 15:13:41 +0000";
 layers = (
 {
 background = {
@@ -27956,11 +27957,11 @@ name = o;
 },
 {
 name = tildecomb;
-transform = "{1, 0, 0, 1, 123, 0}";
+transform = "{1, 0, 0, 1, 124, 0}";
 },
 {
 name = macroncomb;
-transform = "{1, 0, 0, 1, 142, 95}";
+transform = "{1, 0, 0, 1, 143, 95}";
 }
 );
 layerId = "32B14CDE-4F96-422E-BD5E-1145416534B1";
@@ -28970,7 +28971,7 @@ unicode = 0155;
 },
 {
 glyphname = rcaron;
-lastChange = "2021-11-18 13:31:55 +0000";
+lastChange = "2021-11-19 15:12:47 +0000";
 layers = (
 {
 background = {
@@ -28989,7 +28990,7 @@ name = r;
 },
 {
 name = caroncomb;
-transform = "{1, 0, 0, 1, 84, 31}";
+transform = "{1, 0, 0, 1, 75, 31}";
 }
 );
 layerId = "32B14CDE-4F96-422E-BD5E-1145416534B1";
@@ -29317,7 +29318,7 @@ unicode = 015B;
 },
 {
 glyphname = scaron;
-lastChange = "2021-11-18 13:31:58 +0000";
+lastChange = "2021-11-19 15:12:47 +0000";
 layers = (
 {
 background = {
@@ -29336,7 +29337,7 @@ name = s;
 },
 {
 name = caroncomb;
-transform = "{1, 0, 0, 1, 106, 50}";
+transform = "{1, 0, 0, 1, 97, 50}";
 }
 );
 layerId = "32B14CDE-4F96-422E-BD5E-1145416534B1";
@@ -30227,7 +30228,7 @@ unicode = 016D;
 },
 {
 glyphname = ucaron;
-lastChange = "2021-11-18 13:32:30 +0000";
+lastChange = "2021-11-19 15:12:47 +0000";
 layers = (
 {
 background = {
@@ -30246,7 +30247,7 @@ name = u;
 },
 {
 name = caroncomb;
-transform = "{1, 0, 0, 1, 180, 0}";
+transform = "{1, 0, 0, 1, 171, 0}";
 }
 );
 layerId = "32B14CDE-4F96-422E-BD5E-1145416534B1";
@@ -30384,7 +30385,7 @@ unicode = 01D8;
 },
 {
 glyphname = udieresiscaron;
-lastChange = "2021-11-18 13:32:30 +0000";
+lastChange = "2021-11-19 15:12:47 +0000";
 layers = (
 {
 background = {
@@ -30410,7 +30411,7 @@ transform = "{1, 0, 0, 1, 212, 0}";
 },
 {
 name = caroncomb;
-transform = "{1, 0, 0, 1, 201, 94}";
+transform = "{1, 0, 0, 1, 192, 94}";
 }
 );
 layerId = "32B14CDE-4F96-422E-BD5E-1145416534B1";
@@ -32395,7 +32396,7 @@ unicode = 017A;
 },
 {
 glyphname = zcaron;
-lastChange = "2021-11-18 13:32:24 +0000";
+lastChange = "2021-11-19 15:12:47 +0000";
 layers = (
 {
 background = {
@@ -32414,7 +32415,7 @@ name = z;
 },
 {
 name = caroncomb;
-transform = "{1, 0, 0, 1, 103, 0}";
+transform = "{1, 0, 0, 1, 94, 0}";
 }
 );
 layerId = "32B14CDE-4F96-422E-BD5E-1145416534B1";
@@ -51932,13 +51933,13 @@ unicode = 0302;
 {
 color = 9;
 glyphname = caroncomb;
-lastChange = "2021-11-18 13:31:29 +0000";
+lastChange = "2021-11-19 15:12:23 +0000";
 layers = (
 {
 anchors = (
 {
 name = _top;
-position = "{88, 300}";
+position = "{97, 300}";
 },
 {
 name = top;
