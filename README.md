@@ -2,7 +2,7 @@
 
 Mea Culpa is a beautiful formal script with flourished capitals. 
 
-![Sample Image](Documentation/image1.png)
+![Sample Image](documentation/image1.png)
 
 ## Building the Fonts
 
